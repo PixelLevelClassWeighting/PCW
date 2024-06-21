@@ -1,7 +1,8 @@
-Repository Guide for "Addressing Class Imbalance in Micro-CT Image Segmentation: A Modified U-Net Model with Pixel-Level Class Weighting"
+# Repository Guide for "Addressing Class Imbalance in Micro-CT Image Segmentation: A Modified U-Net Model with Pixel-Level Class Weighting"
+
 This repository contains the complete source code used in the research paper titled "Addressing Class Imbalance in Micro-CT Image Segmentation: A Modified U-Net Model with Pixel-Level Class Weighting". The implementation is split into three Jupyter Notebooks, which correspond to different stages of the model development and evaluation described in the paper.
 
-Repository Structure
+## Repository Structure
 u-net.ipynb: Basic U-Net model implementation.
 modified-u-net.ipynb: U-Net model with modifications for improved performance and efficiency.
 modified-u-net+pcw.ipynb: Modified U-Net model integrated with Pixel-Level Class Weighting (PCW).
