@@ -6,9 +6,9 @@ This repository contains the complete source code used in the research paper tit
 
 ## Repository Structure
 
-- `u-net.ipynb`: Basic U-Net model implementation.
-- `modified-u-net.ipynb`: U-Net model with modifications for improved performance and efficiency.
-- `modified-u-net+pcw.ipynb`: Modified U-Net model integrated with Pixel-Level Class Weighting (PCW).
+- `#1 u-net.ipynb`: Basic U-Net model implementation.
+- `#2 modified-u-net.ipynb`: U-Net model with modifications for improved performance and efficiency.
+- `#3 modified-u-net-pcw.ipynb`: Modified U-Net model integrated with Pixel-Level Class Weighting (PCW).
 
 **Each notebook includes pre-saved results from their complete executions to demonstrate the outputs and performance metrics discussed in the paper. This allows reviewers and other users to verify results instantly without re-running the computations.**
 
@@ -32,9 +32,9 @@ To run the notebooks, you will need an environment that supports Python and Jupy
    - Follow the instructions within each notebook to prepare the training and validation datasets.
 
 2. **Model Training and Validation:**
-   - Execute the cells in `u-net.ipynb` to train and validate the basic U-Net model.
-   - In `modified-u-net.ipynb`, run the cells to observe the enhancements from the modifications.
-   - `modified-u-net+pcw.ipynb` includes the full implementation with PCW. Train this model to evaluate the performance improvements detailed in the paper.
+   - Execute the cells in `#1 u-net.ipynb` to train and validate the basic U-Net model.
+   - In `#2 modified-u-net.ipynb`, run the cells to observe the enhancements from the modifications.
+   - `#3 modified-u-net-pcw.ipynb` includes the full implementation with PCW. Train this model to evaluate the performance improvements detailed in the paper.
 
 3. **Evaluation:**
    - Each notebook includes procedures to evaluate the model on the dataset, especially on blind sample C.
