@@ -10,8 +10,6 @@ This repository contains the complete source code used in the research paper tit
 - `#2 modified-u-net.ipynb`: U-Net model with modifications for improved performance and efficiency.
 - `#3 modified-u-net-pcw.ipynb`: Modified U-Net model integrated with Pixel-Level Class Weighting (PCW).
 
-**Each notebook includes pre-saved results from their complete executions to demonstrate the outputs and performance metrics discussed in the paper. This allows reviewers and other users to verify results instantly without re-running the computations.**
-
 ## Prerequisites
 
 To run the notebooks, you will need an environment that supports Python and Jupyter Notebooks. We recommend using Kaggle, as it provides a free accessible GPU that matches the specifications mentioned in our study.
