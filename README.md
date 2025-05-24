@@ -1,6 +1,10 @@
 <p align="center">
-   
+
 # Repository Guide for "Addressing Class Imbalance in Micro-CT Image Segmentation: A Modified U-Net Model with Pixel-Level Class Weighting"
+
+📄 **Published Paper**:  
+[https://doi.org/10.1016/j.cageo.2025.105853](https://doi.org/10.1016/j.cageo.2025.105853)  
+(Computers & Geosciences, 2025)
 
 This repository contains the complete source code used in the research paper titled "Addressing Class Imbalance in Micro-CT Image Segmentation: A Modified U-Net Model with Pixel-Level Class Weighting". The implementation is split into three Jupyter Notebooks, which correspond to different stages of the model development and evaluation described in the paper.
 
